@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/ifinances
     username: infinite
-    password: skills
+    password: b0b8e8b1971a646e382ef05113568ada0e564577ae97ebb0dd2149c648adf394
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     show-sql: true
