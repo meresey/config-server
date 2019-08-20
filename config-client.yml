@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/ifinances
     username: meresey
-    password: 8c7d57f554d90d9eaa7d1f1643625b852ddd1e1715c167e17ee1473e327578e0
+    password: {cypher}8c7d57f554d90d9eaa7d1f1643625b852ddd1e1715c167e17ee1473e327578e0
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     show-sql: true
