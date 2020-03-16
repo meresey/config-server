@@ -1,0 +1,4 @@
+variable1: "Testing"
+    properties:
+        name: "my var"
+        value: 2
